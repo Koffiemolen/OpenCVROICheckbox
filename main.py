@@ -12,7 +12,6 @@ from PIL import Image
 
 # pip install opencv-python numpy scipy Pillow imutils
 # Source: https://stackoverflow.com/questions/48866205/detect-whether-the-checkbox-is-checked-using-opencv
-# sourceDir = 'C:/Temp/Singer/Output/page-1.png'
 
 path = "C:/Temp/Output/a/"
 checkedP = "C:/Temp/checked/"
